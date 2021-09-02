@@ -2,7 +2,7 @@ import praw
 import os
 import telegram
 from time import sleep
-CID = 'CommenID Reddit APP'
+CID = 'CommonID Reddit APP'
 SID = 'SecretID Reddit APP'
 BID = 'TelegramBotID'
 channel = TelegramChannelID
